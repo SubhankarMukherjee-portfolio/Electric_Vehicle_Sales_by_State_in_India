@@ -2,7 +2,7 @@
 This Power BI project analyzes Electric Vehicle (EV) sales data across Indian states from 2014 to 2023 to deliver interactive dashboards for policy and market insights. It integrates data segmented by state, year, month, vehicle category, type, and class. The dashboards showcase key performance indicators such as total EV sales quantity, year-over-year and month-over-month growth, and state-wise adoption. Visualizations include trend lines, bar charts, pie charts, and dynamic tables for deep analysis. The solution enables users to explore geographic, temporal, and category-level trends, empowering strategic planning in the evolving EV ecosystem.
 
 ## Dataset used
-Dataset = ""
+Dataset = "https://github.com/SubhankarMukherjee-portfolio/Electric_Vehicle_Sales_by_State_in_India/blob/main/Electric%20Vehicle%20Sales%20by%20State%20in%20India.csv"
 
 
 ## Objectives of the project
@@ -26,7 +26,7 @@ Dataset = ""
 10) Which states had the highest sales in 2023 alone?
 
 ## Power BI file
-Power BI File = ""
+Power BI File = "https://github.com/SubhankarMukherjee-portfolio/Electric_Vehicle_Sales_by_State_in_India/blob/main/car%20sales.pbix"
 
 ![image](https://github.com/user-attachments/assets/7315eab9-248b-4918-91d6-fd8a25284ca7)
 ![image](https://github.com/user-attachments/assets/0108b432-0717-4171-b21c-58544516d99b)
